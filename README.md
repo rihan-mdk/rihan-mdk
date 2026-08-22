@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Mohammad Rihan MR 👋<br><br>> 🤖 Artificial Intelligence & Machine Learning Student  <br>> 💻 Building AI-powered projects & modern web experiences  <br>> 🌱 Learning • Experimenting • Building  <br>> 🎬 Video Editor & Creative — [@innix.exe](https://www.instagram.com/innix.exe/)  <br>> 🤝 Open to AI/ML, Web & Creative Tech collaborations  <br>> ⚡ Turning ideas into reality, one project at a time<br>
+#  About Me:
+# Hi, I'm Mohammad Rihan MR 👋<br><br>>  Artificial Intelligence & Machine Learning Student  <br>>  Building AI-powered projects & modern web experiences  <br>>  Learning • Experimenting • Building  <br>>  Video Editor & Creative — [@innix.exe](https://www.instagram.com/innix.exe/)  <br>>  Open to AI/ML, Web & Creative Tech collaborations  <br>>  Turning ideas into reality, one project at a time<br>
 
 
 ## 🌐 Socials:
